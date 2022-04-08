@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://t.me/Andr0idDevel0per" target="_blank">Shohrux</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Student of Tashkent University of Information Technologies. Junior Android developer.</h3>
 
-<!--
-**Ravshanbekov001/Ravshanbekov001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I am currently studying android programming at Codial Training Center
 
-Here are some ideas to get you started:
+- 💻 Skills: ANDROID / KOTLIN / JAVA / ROOM
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📄 <a href="https://github.com/Ravshanbekov001/Ravshanbekov001/raw/main/Shohrux's%20Resume.docx" target="_blank">Resume</a>
+
+
+## 📫 How to reach me:
+
+<h3> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" height="32"/>
+<a href="https://t.me/Andr0idDevel0per" target="_blank">Telegram</a> </h3>
