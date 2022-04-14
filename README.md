@@ -4,7 +4,7 @@
 
 - 🌱 I am currently studying android programming at Codial Training Center
 
-- 💻 Skills: ANDROID / KOTLIN / JAVA / ROOM / RETROFIT
+- 💻 Skills: ANDROID / KOTLIN / JAVA / ROOM / RETROFIT / RXJAVA 
 
 - 📄 <a href="https://github.com/Ravshanbekov001/Ravshanbekov001/raw/main/Shohrux's%20Resume.docx" target="_blank">Resume</a>
 
